@@ -1,0 +1,10 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: red;
+}
+
+h1{
+    font-size: 3rem;
+    color: orange;
+}
